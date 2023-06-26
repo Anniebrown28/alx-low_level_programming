@@ -3,6 +3,7 @@
 #include <time.h>
 /**
  * main - generates keygen.
+ * program - 101-crackme.
  * Return: 0 Always.
  */
 int main(void)
